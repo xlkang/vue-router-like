@@ -1,2 +1,2 @@
-# mini-vue-router
-模拟实现vue-router
+# vue-router-like
+捞版vue-router
